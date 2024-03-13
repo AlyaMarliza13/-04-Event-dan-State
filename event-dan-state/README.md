@@ -41,3 +41,15 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ![Screenshot](assets-report/03.png)
 
 ![Screenshot](assets-report/04.png)
+
+* ## **Jawaban Soal/Praktikum 1**
+
+- **Hasil Praktikum 2**
+
+![Screenshot](assets-report/05.png)
+
+![Screenshot](assets-report/06.png)
+
+**Penjelasan:**
+Terjadi penambahan tombol atau **_button_**. Yang awalnya hanya ada tombol bertuliskan **"Ini Tombol"** lalu ada tombol tambahan bertuliskan **"Pesan"** dengan cara menambahkan satu komponen _function_ tanpa default dengan menggunakan dua parameter sebagai nilai dinamis untuk tombol tersebut dan memanggil komponen tersebut pada bagian **"page.tsx"** dan memodifikasi kode tersebut agar komponen _function_ dapat digunakan/dipanggil.
+

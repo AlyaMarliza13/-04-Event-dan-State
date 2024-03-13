@@ -42,7 +42,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ![Screenshot](assets-report/04.png)
 
-* ## **Jawaban Soal/Praktikum 1**
+* ## **Jawaban Soal/Praktikum 2**
 
 - **Hasil Praktikum 2**
 

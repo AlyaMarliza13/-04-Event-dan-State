@@ -129,4 +129,8 @@ Lalu pada _file_ **Form_2** membuat form yang dimana dapat mengisi nama depan da
 
 ![GIF](assets-report/06.gif)
 
+## **Jawaban 2 Soal di Praktikum 5**
 
+1. Perbedaan pada fungsi pada _file_ **"Form_2"** terletak pada penggunaan _state_ yang dimana pada _state_ awal menggunakan struktur yang kurang baik, lalu pada _state_ kedua sudah menggunakan variabel biasa yang jauh lebih ringkas dan lancar.
+
+2. _state fullName_ sendiri tidak perlu menggunakan struktur yang sama dengan _state firstName_ dan _state lastName_ karena bisa membuat kesalahan _(error)_ atau _bug_. Jadi, _state fullName_ dapat dipanggil dengan variabel biasa agar menghindari _error/bug_ serta meringkas variabel tersebut agar tidak terlihat rumit. 

@@ -68,5 +68,6 @@ Terjadi penambahan tombol atau **_button_**. Yang awalnya hanya ada tombol bertu
 * Tampilan dari **Tombol 3 -  Propagation Tombol -2: Child Element**
 ![Screenshot](assets-report/10.png)
 
-* Tampilan dari **Tombol 3 -  Propagation Tombol -1: Parent Element**
+* Tampilan dari **Tombol 3 -  Propagation Tombol -2: Parent Element**
 ![Screenshot](assets-report/11.png)
+

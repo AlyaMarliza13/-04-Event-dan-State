@@ -98,3 +98,33 @@ Terjadi penambahan tombol atau **_button_**. Yang awalnya hanya ada tombol bertu
 ![Screenshot](assets-report/16.png)
 
 ![GIF](assets-report/03.gif)
+
+## **Jawaban Soal/Praktikum 5**
+
+>**Hasil Langkah 1**
+
+![Screenshot](assets-report/17.png)
+
+![GIF](assets-report/04.gif)
+
+Dari hasil form yang telah dibuat diatas, jika kita memasukkan jawaban yang benar maka akan keluar tulisan **"Yay... Jawaban Benar!"**, namun ketika kita memasukkan jawaban yang salah, dibawah kolom teks jawaban akan keluar peringatan yang bertuliskan **"Tebakan yang bagus tetapi jawaban salah. Silahkan coba lagi!"**.
+
+>**Hasil Langkah 2**
+
+![Screenshot](assets-report/17.png)
+
+![GIF](assets-report/04.gif)
+
+Lalu pada _file_ **Form_2** membuat form yang dimana dapat mengisi nama depan dan belakang lalu menjadi satu yang dimana menjadi nama lengkap dengan 2 jenis _state_ atau kondisi.
+
+* Kondisi _state fullName_ yang **redundan**
+
+![Screenshot](assets-report/18.png)
+
+![GIF](assets-report/05.gif)
+
+* Kondisi _state fullName_ yang **tidak redundan**
+
+![Screenshot](assets-report/19.png)
+
+![GIF](assets-report/06.gif)

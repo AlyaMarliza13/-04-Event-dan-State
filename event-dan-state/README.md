@@ -125,7 +125,7 @@ Lalu pada _file_ **Form_2** membuat form yang dimana dapat mengisi nama depan da
 
 * Kondisi _state fullName_ yang **tidak redundan** karena diganti dengan variabel biasa
 
-![Screenshot](assets-report/19.png)
+![Screenshot](assets-report/18.png)
 
 ![GIF](assets-report/06.gif)
 

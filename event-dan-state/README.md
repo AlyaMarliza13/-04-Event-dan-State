@@ -77,5 +77,24 @@ Terjadi penambahan tombol atau **_button_**. Yang awalnya hanya ada tombol bertu
 
 ![Screenshot](assets-report/12.png)
 
-![GIF](assets-report/13.gif)
+![GIF](assets-report/01.gif)
 
+## **Jawaban 3 Soal di Praktikum 4**
+
+1. Akan terjadi error, berikut buktinya,
+
+![Screenshot](assets-report/13.png)
+
+![GIF](assets-report/02.gif)
+
+2. Berikut adalah hasil modifikasi dari **gallery.tsx**
+
+![Screenshot](assets-report/14.png)
+
+3. Berikut penambahan tombol **"Artikel Sebelumnya"**
+
+![Screenshot](assets-report/15.png)
+
+![Screenshot](assets-report/16.png)
+
+![GIF](assets-report/03.gif)

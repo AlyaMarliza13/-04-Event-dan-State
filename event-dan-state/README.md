@@ -123,8 +123,10 @@ Lalu pada _file_ **Form_2** membuat form yang dimana dapat mengisi nama depan da
 
 ![GIF](assets-report/05.gif)
 
-* Kondisi _state fullName_ yang **tidak redundan**
+* Kondisi _state fullName_ yang **tidak redundan** karena diganti dengan variabel biasa
 
 ![Screenshot](assets-report/19.png)
 
 ![GIF](assets-report/06.gif)
+
+

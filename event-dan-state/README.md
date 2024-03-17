@@ -71,10 +71,11 @@ Terjadi penambahan tombol atau **_button_**. Yang awalnya hanya ada tombol bertu
 * Tampilan dari **Tombol 3 -  Propagation Tombol -2: Parent Element**
 ![Screenshot](assets-report/11.png)
 
-* ## **Jawaban Soal/Praktikum 4**
+## **Jawaban Soal/Praktikum 4**
 
 > **Hasil Praktikum 4**
 
 ![Screenshot](assets-report/12.png)
 
 ![GIF](assets-report/13.gif)
+
